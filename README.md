@@ -120,4 +120,4 @@ This notebook is structured to guide you through different aspects of using a De
 
 ## 📄 License
 
-This project itself is open-sourced under the MIT License (or your chosen license). Each DeepSeek-R1 model from `deepseek-ai` will have its own license, which you should consult on its respective Hugging Face model card.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
